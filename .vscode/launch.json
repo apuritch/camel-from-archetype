@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MySpringBootApplication<tester>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.aran.ecp.MySpringBootApplication",
+            "projectName": "tester",
+            "args": ""
+        }
+    ]
+}
