@@ -9,6 +9,16 @@
             "mainClass": "org.aran.ecp.MySpringBootApplication",
             "projectName": "tester",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApplication<tester>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.aran.ecp.RestApplication",
+            "projectName": "tester",
+            "args": ""
         }
     ]
 }
