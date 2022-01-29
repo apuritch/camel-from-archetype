@@ -1,9 +1,6 @@
 org\aran\ecp\beans\PostBean.class
-org\aran\ecp\MySpringBootRouter.class
 org\aran\ecp\types\PostRequestType.class
-org\aran\ecp\MySpringBean.class
 org\aran\ecp\beans\GetBean.class
 org\aran\ecp\RestApplication.class
 org\aran\ecp\types\ResponseType.class
-org\aran\ecp\MySpringBootApplication.class
 org\aran\ecp\RestRouteBuilder.class
